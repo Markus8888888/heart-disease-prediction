@@ -58,5 +58,6 @@ Run notebooks in order:
 
 ## References
 - Cardiovascular diseases (Cvds). (n.d.). Retrieved July 12, 2025, from https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+- https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings 
 
 ---
