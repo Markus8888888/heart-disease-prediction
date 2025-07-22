@@ -41,7 +41,10 @@ More information under **1_data_analysis_preprocessing.ipynb** notebook
 ---
 
 ## Installation
+## Requirements
 
+- Python 3.11.x
+- Install dependencies with:
 ---
 
 ## Usage
