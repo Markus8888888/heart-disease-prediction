@@ -27,8 +27,8 @@ Intended use cases:
 3. Support research on how health risk factors work together
 
 ---
+
 ## Repository Structure
-## 📁 Project Structure
 
 ```
 heart-disease-risk-prediction/
@@ -56,29 +56,33 @@ heart-disease-risk-prediction/
 └── requirements.txt                          # Project documentation
 ```
 
-
-
-
 ---
 
 ## Dataset Overview
-The dataset is from Kaggle ("Heart Disease"), and contains multiple health indicators and lifestyle factors assess heart disease risk.
+The dataset is from Kaggle ("Heart Disease"), and contains multiple health indicators and lifestyle factors to assess heart disease risk.
 
 Link to Dataset: https://www.kaggle.com/datasets/oktayrdeki/heart-disease
 
-More information under **1_data_analysis_preprocessing.ipynb** notebook
-
----
-
-## Repository Structure
+More details under **1_exploratory_data_analysis.ipynb** notebook
 
 ---
 
 ## Installation
-## Requirements
 
-- Python 3.11.x
-- Install dependencies with:
+Requirements:
+- Python 3.11.0
+- Recommended using a virtual environment
+
+Clone the repo:  
+```
+git clone https://github.com/Markus8888888/Life-Expectancy-Project
+```
+
+Install pip packages:  
+```
+pip install -r requirements.txt
+``` 
+
 ---
 
 ## Usage
