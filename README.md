@@ -93,6 +93,22 @@ Run notebooks in order:
 
 ---
 
+## Tech Stack
+
+Languages & Tools:
+- `python`
+- `pandas`, `matplotlib`, `seaborn`
+- `scitkit-learn`, `imbalanced-learn`, `pickle`
+- `Jupyter Notebooks`
+
+ML Models:
+- Logistic Regression
+- Random Forest (final model)
+- K-Nearest Neighbours
+- Support Vector Classifier
+
+---
+
 ## References
 - World Health Organization. (2021, June 11). Cardiovascular diseases (CVDs). https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 - American Heart Association. (2024). Understanding blood pressure readings. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings
