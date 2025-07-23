@@ -75,7 +75,7 @@ Requirements:
 
 Clone the repo:  
 ```
-git clone https://github.com/Markus8888888/Life-Expectancy-Project
+git clone https://github.com/Markus8888888/heart_disease_prediction
 ```
 
 Install pip packages:  
@@ -83,22 +83,19 @@ Install pip packages:
 pip install -r requirements.txt
 ``` 
 
----
+### Usage
 
-## Usage
 Run notebooks in order:
-1. 1_data_analysis_preprocessing.ipynb
-2. 2_exploratory_analysis.ipynb
-3. 3_modeling.ipynb (CHANGE ALL THIS LATER)
-
----
-
-## Key Findings
+1. 1_exploratory_data_analysis.ipynb
+2. 2_data_preprocessing.ipynb
+3. 3_modeling.ipynb
+4. 4_results_and_interpretation.ipynb
 
 ---
 
 ## References
-- Cardiovascular diseases (Cvds). (n.d.). Retrieved July 12, 2025, from https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
-- https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings 
+- World Health Organization. (2021, June 11). Cardiovascular diseases (CVDs). https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+- American Heart Association. (2024). Understanding blood pressure readings. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings
+- Ördekçi, O. (2024). Heart Disease [Data set]. Kaggle. https://www.kaggle.com/datasets/oktayrdeki/heart-disease
 
 ---
